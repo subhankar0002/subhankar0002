@@ -120,7 +120,7 @@ Provides insights into customer spending patterns and product trends.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/subhankar0002/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
   </a>
   <a href="mailto:sahasubhankarkoronn@gmail.com">
