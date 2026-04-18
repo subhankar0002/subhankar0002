@@ -1,97 +1,102 @@
-<h1 align="center">Hi there 👋, my name is Subhankar Saha</h1>
+<h1 align="center">Subhankar Saha</h1>
 
-<h3 align="center">AI/ML Engineer • Data Analyst • NLP Enthusiast</h3>
+<p align="center">
+  AI/ML Engineer • Data Analyst • NLP & Data Science Enthusiast
+</p>
 
----
-
-##  Professional Profile
-
-I am an AI and Data Science enthusiast specializing in the intersection of **Machine Learning, Deep Learning, and Data Analytics**.
-
-My expertise includes building scalable ML models, performing deep data analysis, and developing intelligent systems—from NLP pipelines to computer vision applications.
-
-Beyond models, I design **data-driven dashboards and applications** that translate complex data into actionable insights using Power BI, SQL, and Python.
+<p align="center">
+  <a href="mailto:sahasubhankarkoronn@gmail.com">Email</a> •
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+</p>
 
 ---
 
-##  Comprehensive Tech Stack
+## Professional Summary
 
-###  Deep Learning & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-yellow?logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![Pandas](https://img.shields.io/badge/Pandas-purple)
+I am an AI and Data Science enthusiast with hands-on experience in Machine Learning, Deep Learning, and Natural Language Processing. I specialize in building scalable, data-driven systems and extracting meaningful insights from structured and unstructured data.
+
+My work focuses on the end-to-end lifecycle of data solutions, including data collection, preprocessing, exploratory data analysis, feature engineering, model development, and deployment. I am also experienced in translating analytical outcomes into business insights through visualization tools such as Power BI and Tableau.
 
 ---
 
-###  NLP & Generative AI
-![HuggingFace](https://img.shields.io/badge/HuggingFace-orange)
-![LangChain](https://img.shields.io/badge/LangChain-black)
-![NLTK](https://img.shields.io/badge/NLTK-green)
+## Core Competencies
+
+Machine Learning • Deep Learning • Natural Language Processing • Data Analysis • Exploratory Data Analysis (EDA) • Feature Engineering • Model Deployment • Data Visualization • Business Intelligence • Statistical Analysis
 
 ---
 
-###  Computer Vision
-![CNN](https://img.shields.io/badge/CNN-blue)
+## Technical Stack
+
+**Programming Languages**  
+Python, JavaScript
+
+**Machine Learning & Data Science**  
+TensorFlow, Scikit-learn, Pandas, NumPy, LangChain, NLTK
+
+**Data Analysis & Visualization**  
+Power BI, Tableau, Excel
+
+**Web Technologies**  
+HTML, CSS, Tailwind CSS, Flask
+
+**Database Systems**  
+SQL, MySQL
 
 ---
 
-###  Core Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+## Selected Projects
+
+**QuickRead AI**  
+Developed an AI-based document summarization system using Flask, LangChain, and Hugging Face Transformers. The system processes PDF and DOCX files, extracts structured text, and generates concise summaries using transformer-based models. Designed a scalable REST API and responsive web interface.
+
+**Dog vs Cat Image Classifier**  
+Built a deep learning-based image classification system using a custom convolutional neural network. Developed a web interface for user interaction and deployed the application. Achieved an accuracy of 83 percent on validation data.
+
+**Movie Recommender System**  
+Designed a content-based recommendation engine using NLP techniques. Implemented feature extraction, text vectorization, and cosine similarity to generate relevant movie suggestions.
+
+**Customer Behaviour Analysis Dashboard**  
+Performed data cleaning and transformation using Python and SQL. Built an interactive Power BI dashboard to analyze customer spending patterns, subscription behavior, and product trends.
 
 ---
 
-###  Full-Stack & UI
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+## Achievements
 
----
-
-###  Databases & Tools
-![SQL](https://img.shields.io/badge/SQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-green)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
-
----
-
-## 🔬 Featured Projects
-
--  **QuickRead AI**  
-  Built an AI document summarization system using **Flask, LangChain, Hugging Face**, supporting PDF & DOCX processing.
-
--  **Dog vs Cat Classifier**  
-  Developed a custom CNN-based web app achieving **83% accuracy**, deployed on Render.
-
--  **Movie Recommender System**  
-  NLP-based system using **TF-IDF + Cosine Similarity** for intelligent recommendations.
-
--  **Customer Behaviour Analysis Dashboard**  
-  Built interactive Power BI dashboards with SQL-backed insights on customer trends.
-
----
-
-
-##  Achievements
-
- **Best Paper Award – ICEDC 2025**  
+Best Paper Award – ICEDC 2025  
 Geolocation-Based QR Code Attendance System  
+Swami Vivekananda University, Kolkata
 
 ---
 
-##  Live GitHub Analytics
+## Education
 
-![Stats](https://github-readme-stats.vercel.app/api?username=subhankar0002&show_icons=true&theme=tokyonight)
+Bachelor of Technology in Computer Science and Engineering  
+Swami Vivekananda University  
+2022 – Present
 
-![Streak](https://streak-stats.demolab.com?user=subhankar0002&theme=tokyonight)
+Higher Secondary Education  
+Saktinagar High School  
+Score: 85.20%
 
 ---
 
-## 🤝 Let's Connect
+## Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_LINK)
+Oracle AI Foundations Associate – OCI 2025  
+Data Science Training Program – GeeksforGeeks  
+Artificial Intelligence for All  
+Full Stack Web Development Training – IBM  
+Python Certification
 
-[![Email](https://img.shields.io/badge/Email-red)](mailto:sahasubhankarkoronn@gmail.com)
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhankar0002&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subhankar0002&theme=default" />
+</p>
